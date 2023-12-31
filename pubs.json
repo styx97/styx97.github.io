@@ -1,0 +1,262 @@
+{
+    "we-dont-speak_2021": {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "We Don't Speak the Same Language: Interpreting Polarization through Machine Translation",
+            "pub_year": 2021,
+            "citation": "Proceedings of the AAAI Conference on Artificial Intelligence 35 (17), 14893 \u2026, 2021",
+            "author": "Ashiqur R KhudaBukhsh and Rupak Sarkar and Mark S Kamlet and Tom Mitchell",
+            "journal": "Proceedings of the AAAI Conference on Artificial Intelligence",
+            "volume": "35",
+            "number": "17",
+            "pages": "14893-14901",
+            "abstract": "Polarization among US political parties, media and elites is a widely studied topic. Prominent lines of prior research across multiple disciplines have observed and analyzed growing polarization in social media. In this paper, we present a new methodology that offers a fresh perspective on interpreting polarization through the lens of machine translation. With a novel proposition that two sub-communities are speaking in two different\" languages\", we demonstrate that modern machine translation methods can provide a simple yet powerful and interpretable framework to understand the differences between two (or more) large-scale social media discussion data sets at the granularity of words. Via a substantial corpus of 86.6 million comments by 6.5 million users on over 200,000 news videos hosted by YouTube channels of four prominent US news networks, we demonstrate that simple word-level and phrase-level translation pairs can reveal deep insights into the current political divide--what is\" black lives matter\" to one can be\" all lives matter\" to the other."
+        },
+        "filled": true,
+        "author_pub_id": "SOckmGoAAAAJ:u-x6o8ySG0sC",
+        "num_citations": 36,
+        "citedby_url": "/scholar?hl=en&cites=12284359331377422179",
+        "cites_id": [
+            "12284359331377422179"
+        ],
+        "pub_url": "http://ojs.aaai.org/index.php/AAAI/article/view/17748",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:Y58BALrPeqoJ:scholar.google.com/",
+        "cites_per_year": {
+            "2020": 1,
+            "2021": 9,
+            "2022": 8,
+            "2023": 18
+        }
+    },
+    "fringe-news-networks_2022": {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Fringe news networks: Dynamics of us news viewership following the 2020 presidential election",
+            "pub_year": 2022,
+            "citation": "Proceedings of the 14th ACM Web Science Conference 2022, 269-278, 2022",
+            "author": "Ashiqur R KhudaBukhsh and Rupak Sarkar and Mark S Kamlet and Tom M Mitchell",
+            "pages": "269-278",
+            "abstract": "The growing political polarization of the American electorate over the last several decades has been widely studied and documented. During the administration of President Donald Trump, charges of \u201cfake news\u201d made social and news media not only the means but, to an unprecedented extent, the topic of political communication. This extreme political polarization continued through the election and all through the period up to the attempted takeover of the Capitol on January 6, 2021. In this paper, we analyze this tumultuous phase in American history through the lens of news viewership. We consider the official YouTube channels of six US cable news networks across a wide political spectrum with a specific focus on three conservative fringe news networks. We analyze how the viewers reacted to the different ways the election outcome was covered by these news outlets. This paper makes two distinct types of \u2026"
+        },
+        "filled": true,
+        "author_pub_id": "SOckmGoAAAAJ:UeHWp8X0CEIC",
+        "num_citations": 16,
+        "citedby_url": "/scholar?hl=en&cites=12059908465728900813",
+        "cites_id": [
+            "12059908465728900813"
+        ],
+        "pub_url": "https://dl.acm.org/doi/abs/10.1145/3501247.3531577",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:zU5_e9pmXacJ:scholar.google.com/",
+        "cites_per_year": {
+            "2021": 1,
+            "2022": 9,
+            "2023": 6
+        }
+    },
+    "partisan-us-news_2023": {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Partisan us news media representations of syrian refugees",
+            "pub_year": 2023,
+            "citation": "Proceedings of the International AAAI Conference on Web and Social Media 17 \u2026, 2023",
+            "author": "Keyu Chen and Marzieh Babaeianjelodar and Yiwen Shi and Kamila Janmohamed and Rupak Sarkar and Ingmar Weber and Thomas Davidson and Munmun De Choudhury and Jonathan Huang and Shweta Yadav and Ashiqur KhudaBukhsh and Chris T Bauch and Preslav Nakov and Orestis Papakyriakopoulos and Koustuv Saha and Kaveh Khoshnood and Navin Kumar",
+            "journal": "Proceedings of the International AAAI Conference on Web and Social Media",
+            "volume": "17",
+            "pages": "103-113",
+            "abstract": "We investigate how representations of Syrian refugees (2011-2021) differ across US partisan news outlets. We analyze 47,388 articles from the online US media about Syrian refugees to detail differences in reporting between left-and right-leaning media. We use various NLP techniques to understand these differences. Our polarization and question answering results indicated that left-leaning media tended to represent refugees as child victims, welcome in the US, and right-leaning media cast refugees as Islamic terrorists. We noted similar results with our sentiment and offensive speech scores over time, which detail possibly unfavorable representations of refugees in right-leaning media. A strength of our work is how the different techniques we have applied validate each other. Based on our results, we provide several recommendations. Stakeholders may utilize our findings to intervene around refugee representations, and design communications campaigns that improve the way society sees refugees and possibly aid refugee outcomes."
+        },
+        "filled": true,
+        "author_pub_id": "SOckmGoAAAAJ:W7OEmFMy1HYC",
+        "num_citations": 11,
+        "citedby_url": "/scholar?hl=en&cites=2138048734252819506",
+        "cites_id": [
+            "2138048734252819506"
+        ],
+        "pub_url": "https://ojs.aaai.org/index.php/ICWSM/article/view/22130",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:MuSc9f7fqx0J:scholar.google.com/",
+        "cites_per_year": {
+            "2022": 5,
+            "2023": 5
+        }
+    },
+    "the-nonnative-speaker_2020": {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "The non-native speaker aspect: Indian English in social media",
+            "pub_year": 2020,
+            "citation": "Proceedings of the Sixth Workshop on Noisy User-generated Text (W-NUT 2020 \u2026, 2020",
+            "author": "Rupak Sarkar and Sayantan Mahinder and Ashiqur KhudaBukhsh",
+            "conference": "Proceedings of the Sixth Workshop on Noisy User-generated Text (W-NUT 2020)",
+            "pages": "61-70",
+            "abstract": "As the largest institutionalized second language variety of English, Indian English has received a sustained focus from linguists for decades. However, to the best of our knowledge, no prior study has contrasted web-expressions of Indian English in noisy social media with English generated by a social media user base that are predominantly native speakers. In this paper, we address this gap in the literature through conducting a comprehensive analysis considering multiple structural and semantic aspects. In addition, we propose a novel application of language models to perform automatic linguistic quality assessment."
+        },
+        "filled": true,
+        "author_pub_id": "SOckmGoAAAAJ:d1gkVwhDpl0C",
+        "num_citations": 11,
+        "citedby_url": "/scholar?hl=en&cites=18252567540479889339",
+        "cites_id": [
+            "18252567540479889339"
+        ],
+        "pub_url": "https://aclanthology.org/2020.wnut-1.9/",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:uw8hyXglTv0J:scholar.google.com/",
+        "cites_per_year": {
+            "2020": 1,
+            "2021": 3,
+            "2022": 5,
+            "2023": 2
+        }
+    },
+    "are-neural-topic_2022": {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Are Neural Topic Models Broken?",
+            "pub_year": 2022,
+            "citation": "arXiv preprint arXiv:2210.16162, 2022",
+            "author": "Alexander Hoyle and Pranav Goel and Rupak Sarkar and Philip Resnik",
+            "journal": "arXiv preprint arXiv:2210.16162",
+            "abstract": "Recently, the relationship between automated and human evaluation of topic models has been called into question. Method developers have staked the efficacy of new topic model variants on automated measures, and their failure to approximate human preferences places these models on uncertain ground. Moreover, existing evaluation paradigms are often divorced from real-world use. Motivated by content analysis as a dominant real-world use case for topic modeling, we analyze two related aspects of topic models that affect their effectiveness and trustworthiness in practice for that purpose: the stability of their estimates and the extent to which the model's discovered categories align with human-determined categories in the data. We find that neural topic models fare worse in both respects compared to an established classical method. We take a step toward addressing both issues in tandem by demonstrating that a straightforward ensembling method can reliably outperform the members of the ensemble."
+        },
+        "filled": true,
+        "author_pub_id": "SOckmGoAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 10,
+        "citedby_url": "/scholar?hl=en&cites=6122573898126114782",
+        "cites_id": [
+            "6122573898126114782"
+        ],
+        "pub_url": "https://arxiv.org/abs/2210.16162",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:3r_ihIXA91QJ:scholar.google.com/",
+        "cites_per_year": {
+            "2023": 10
+        }
+    },
+    "are-chess-discussions_2021": {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Are chess discussions racist? an adversarial hate speech data set (student abstract)",
+            "pub_year": 2021,
+            "citation": "Proceedings of the AAAI Conference on Artificial Intelligence 35 (18), 15881 \u2026, 2021",
+            "author": "Rupak Sarkar and Ashiqur R KhudaBukhsh",
+            "journal": "Proceedings of the AAAI Conference on Artificial Intelligence",
+            "volume": "35",
+            "number": "18",
+            "pages": "15881-15882",
+            "abstract": "On June 28, 2020, while presenting a chess podcast on Grandmaster Hikaru Nakamura, Antonio Radic's YouTube handle got blocked because it contained``harmful and dangerous''content. YouTube did not give further specific reason, and the channel got reinstated within 24 hours. However, Radic speculated that given the current political situation, a referral to``black against white'', albeit in the context of chess, earned him this temporary ban. In this paper, via a substantial corpus of 681,995 comments, on 8,818 YouTube videos hosted by five highly popular chess-focused YouTube channels, we ask the following research question:\\emph {how robust are off-the-shelf hate-speech classifiers to out-of-domain adversarial examples?} We release a data set of 1,000 annotated comments where existing hate speech classifiers misclassified benign chess discussions as hate speech. We conclude with an intriguing analogy result on racial bias with our findings pointing out to the broader challenge of color polysemy."
+        },
+        "filled": true,
+        "author_pub_id": "SOckmGoAAAAJ:IjCSPb-OGe4C",
+        "num_citations": 9,
+        "citedby_url": "/scholar?hl=en&cites=15412334924666130339,6633935622928552709",
+        "cites_id": [
+            "15412334924666130339",
+            "6633935622928552709"
+        ],
+        "pub_url": "https://ojs.aaai.org/index.php/AAAI/article/view/17937",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:o08SuPSc49UJ:scholar.google.com/",
+        "cites_per_year": {
+            "2021": 1,
+            "2022": 4,
+            "2023": 4
+        }
+    },
+    "social-media-attributions_2020": {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Social Media Attributions in the Context of Water Crisis",
+            "pub_year": 2020,
+            "citation": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language \u2026, 2020",
+            "author": "Rupak Sarkar and Hirak Sarkar and Sayantan Mahinder and Ashiqur R KhudaBukhsh",
+            "conference": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+            "pages": "1402\u20131412",
+            "abstract": "Attribution of natural disasters/collective misfortune is a widely-studied political science problem. However, such studies are typically survey-centric or rely on a handful of experts to weigh in on the matter. In this paper, we explore how can we use social media data and an AI-driven approach to complement traditional surveys and automatically extract attribution factors. We focus on the most-recent Chennai water crisis which started off as a regional issue but rapidly escalated into a discussion topic with global importance following alarming water-crisis statistics. Specifically, we present a novel prediction task of attribution tie detection which identifies the factors held responsible for the crisis (e.g., poor city planning, exploding population etc.). On a challenging data set constructed from YouTube comments (72,098 comments posted by 43,859 users on 623 relevant videos to the crisis), we present a neural classifier to extract attribution ties that achieved a reasonable performance (Accuracy: 81.34\\% on attribution detection and 71.19\\% on attribution resolution)."
+        },
+        "filled": true,
+        "author_pub_id": "SOckmGoAAAAJ:9yKSN-GCB0IC",
+        "num_citations": 8,
+        "citedby_url": "/scholar?hl=en&cites=15994809224059426231",
+        "cites_id": [
+            "15994809224059426231"
+        ],
+        "pub_url": "https://arxiv.org/abs/2001.01697",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:txU0wj76-N0J:scholar.google.com/",
+        "cites_per_year": {
+            "2020": 2,
+            "2021": 2,
+            "2022": 4
+        }
+    },
+    "empathy-and-hope_2021": {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Empathy and hope: resource transfer to model inter-country social media dynamics",
+            "pub_year": 2021,
+            "citation": "arXiv preprint arXiv:2106.12044, 2021",
+            "author": "Clay H Yoo and Shriphani Palakodety and Rupak Sarkar and Ashiqur R KhudaBukhsh",
+            "journal": "arXiv preprint arXiv:2106.12044",
+            "abstract": "The ongoing COVID-19 pandemic resulted in significant ramifications for international relations ranging from travel restrictions, global ceasefires, and international vaccine production and sharing agreements. Amidst a wave of infections in India that resulted in a systemic breakdown of healthcare infrastructure, a social welfare organization based in Pakistan offered to procure medical-grade oxygen to assist India -- a nation which was involved in four wars with Pakistan in the past few decades. In this paper, we focus on Pakistani Twitter users' response to the ongoing healthcare crisis in India. While #IndiaNeedsOxygen and #PakistanStandsWithIndia featured among the top-trending hashtags in Pakistan, divisive hashtags such as #EndiaSaySorryToKashmir simultaneously started trending. Against the backdrop of a contentious history including four wars, divisive content of this nature, especially when a country is facing an unprecedented healthcare crisis, fuels further deterioration of relations. In this paper, we define a new task of detecting \\emph{supportive} content and demonstrate that existing \\emph{NLP for social impact} tools can be effectively harnessed for such tasks within a quick turnaround time. We also release the first publicly available data set at the intersection of geopolitical relations and a raging pandemic in the context of India and Pakistan."
+        },
+        "filled": true,
+        "author_pub_id": "SOckmGoAAAAJ:zYLM7Y9cAGgC",
+        "num_citations": 5,
+        "citedby_url": "/scholar?hl=en&cites=8434610960571538331",
+        "cites_id": [
+            "8434610960571538331"
+        ],
+        "pub_url": "https://arxiv.org/abs/2106.12044",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:m5t76_rBDXUJ:scholar.google.com/",
+        "cites_per_year": {
+            "2021": 1,
+            "2022": 4
+        }
+    },
+    "natural-language-decompositions_2023": {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Natural Language Decompositions of Implicit Content Enable Better Text Representations",
+            "pub_year": 2023,
+            "citation": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language \u2026, 2023",
+            "author": "Alexander Hoyle and Rupak Sarkar and Pranav Goel and Philip Resnik",
+            "conference": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+            "pages": "13188-13214",
+            "abstract": "When people interpret text, they rely on inferences that go beyond the observed language itself. Inspired by this observation, we introduce a method for the analysis of text that takes implicitly communicated content explicitly into account. We use a large language model to produce sets of propositions that are inferentially related to the text that has been observed, then validate the plausibility of the generated content via human judgments. Incorporating these explicit representations of implicit content proves useful in multiple problem settings that involve the human interpretation of utterances: assessing the similarity of arguments, making sense of a body of opinion data, and modeling legislative behavior. Our results suggest that modeling the meanings behind observed language, rather than the literal text alone, is a valuable direction for NLP and particularly its applications to social science."
+        },
+        "filled": true,
+        "author_pub_id": "SOckmGoAAAAJ:ufrVoPGSRksC",
+        "num_citations": 2,
+        "citedby_url": "/scholar?hl=en&cites=224497657649636667,5028742958678361005",
+        "cites_id": [
+            "224497657649636667",
+            "5028742958678361005"
+        ],
+        "pub_url": "https://aclanthology.org/2023.emnlp-main.815/",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:rUPF1hOvyUUJ:scholar.google.com/",
+        "cites_per_year": {
+            "2023": 2
+        }
+    },
+    "towards-pragmatic-awareness_2023": {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Towards Pragmatic Awareness in Question Answering: A Case Study in Maternal and Infant Health",
+            "pub_year": 2023,
+            "citation": "arXiv preprint arXiv:2311.09542, 2023",
+            "author": "Neha Srikanth and Rupak Sarkar and Rachel Rudinger and Jordan Boyd-Graber",
+            "journal": "arXiv preprint arXiv:2311.09542",
+            "abstract": "Questions posed by information-seeking users often contain implicit false or potentially harmful assumptions. In a high-risk domain such as maternal and infant health, a question-answering system must recognize these pragmatic constraints and go beyond simply answering user questions, examining them in context to respond helpfully. To achieve this, we study pragmatic inferences made when mothers ask questions about pregnancy and infant care. Some of the inferences in these questions evade detection by existing methods, risking the possibility of QA systems failing to address them which can have dangerous health and policy implications. We explore the viability of detecting inferences from questions using large language models and illustrate that informing existing QA pipelines with pragmatic inferences produces responses that can mitigate the propagation of harmful beliefs."
+        },
+        "filled": true,
+        "author_pub_id": "SOckmGoAAAAJ:WF5omc3nYNoC",
+        "num_citations": 0,
+        "pub_url": "https://arxiv.org/abs/2311.09542",
+        "cites_per_year": {}
+    }
+}
