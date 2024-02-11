@@ -15,7 +15,7 @@
         },
         "filled": true,
         "author_pub_id": "SOckmGoAAAAJ:u-x6o8ySG0sC",
-        "num_citations": 36,
+        "num_citations": 37,
         "citedby_url": "/scholar?hl=en&cites=12284359331377422179",
         "cites_id": [
             "12284359331377422179"
@@ -26,7 +26,8 @@
             "2020": 1,
             "2021": 9,
             "2022": 8,
-            "2023": 18
+            "2023": 18,
+            "2024": 1
         }
     },
     "fringe-news-networks_2022": {
@@ -42,7 +43,7 @@
         },
         "filled": true,
         "author_pub_id": "SOckmGoAAAAJ:UeHWp8X0CEIC",
-        "num_citations": 16,
+        "num_citations": 17,
         "citedby_url": "/scholar?hl=en&cites=12059908465728900813",
         "cites_id": [
             "12059908465728900813"
@@ -52,7 +53,33 @@
         "cites_per_year": {
             "2021": 1,
             "2022": 9,
-            "2023": 6
+            "2023": 6,
+            "2024": 1
+        }
+    },
+    "are-neural-topic_2022": {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "Are Neural Topic Models Broken?",
+            "pub_year": 2022,
+            "citation": "arXiv preprint arXiv:2210.16162, 2022",
+            "author": "Alexander Hoyle and Pranav Goel and Rupak Sarkar and Philip Resnik",
+            "journal": "arXiv preprint arXiv:2210.16162",
+            "abstract": "Recently, the relationship between automated and human evaluation of topic models has been called into question. Method developers have staked the efficacy of new topic model variants on automated measures, and their failure to approximate human preferences places these models on uncertain ground. Moreover, existing evaluation paradigms are often divorced from real-world use. Motivated by content analysis as a dominant real-world use case for topic modeling, we analyze two related aspects of topic models that affect their effectiveness and trustworthiness in practice for that purpose: the stability of their estimates and the extent to which the model's discovered categories align with human-determined categories in the data. We find that neural topic models fare worse in both respects compared to an established classical method. We take a step toward addressing both issues in tandem by demonstrating that a straightforward ensembling method can reliably outperform the members of the ensemble."
+        },
+        "filled": true,
+        "author_pub_id": "SOckmGoAAAAJ:YsMSGLbcyi4C",
+        "num_citations": 12,
+        "citedby_url": "/scholar?hl=en&cites=6122573898126114782",
+        "cites_id": [
+            "6122573898126114782"
+        ],
+        "pub_url": "https://arxiv.org/abs/2210.16162",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:3r_ihIXA91QJ:scholar.google.com/",
+        "cites_per_year": {
+            "2023": 10,
+            "2024": 2
         }
     },
     "partisan-us-news_2023": {
@@ -78,8 +105,8 @@
         "pub_url": "https://ojs.aaai.org/index.php/ICWSM/article/view/22130",
         "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:MuSc9f7fqx0J:scholar.google.com/",
         "cites_per_year": {
-            "2022": 5,
-            "2023": 5
+            "2022": 4,
+            "2023": 6
         }
     },
     "the-nonnative-speaker_2020": {
@@ -108,30 +135,6 @@
             "2021": 3,
             "2022": 5,
             "2023": 2
-        }
-    },
-    "are-neural-topic_2022": {
-        "container_type": "Publication",
-        "source": "AUTHOR_PUBLICATION_ENTRY",
-        "bib": {
-            "title": "Are Neural Topic Models Broken?",
-            "pub_year": 2022,
-            "citation": "arXiv preprint arXiv:2210.16162, 2022",
-            "author": "Alexander Hoyle and Pranav Goel and Rupak Sarkar and Philip Resnik",
-            "journal": "arXiv preprint arXiv:2210.16162",
-            "abstract": "Recently, the relationship between automated and human evaluation of topic models has been called into question. Method developers have staked the efficacy of new topic model variants on automated measures, and their failure to approximate human preferences places these models on uncertain ground. Moreover, existing evaluation paradigms are often divorced from real-world use. Motivated by content analysis as a dominant real-world use case for topic modeling, we analyze two related aspects of topic models that affect their effectiveness and trustworthiness in practice for that purpose: the stability of their estimates and the extent to which the model's discovered categories align with human-determined categories in the data. We find that neural topic models fare worse in both respects compared to an established classical method. We take a step toward addressing both issues in tandem by demonstrating that a straightforward ensembling method can reliably outperform the members of the ensemble."
-        },
-        "filled": true,
-        "author_pub_id": "SOckmGoAAAAJ:YsMSGLbcyi4C",
-        "num_citations": 10,
-        "citedby_url": "/scholar?hl=en&cites=6122573898126114782",
-        "cites_id": [
-            "6122573898126114782"
-        ],
-        "pub_url": "https://arxiv.org/abs/2210.16162",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:3r_ihIXA91QJ:scholar.google.com/",
-        "cites_per_year": {
-            "2023": 10
         }
     },
     "are-chess-discussions_2021": {
@@ -178,7 +181,7 @@
         },
         "filled": true,
         "author_pub_id": "SOckmGoAAAAJ:9yKSN-GCB0IC",
-        "num_citations": 8,
+        "num_citations": 9,
         "citedby_url": "/scholar?hl=en&cites=15994809224059426231",
         "cites_id": [
             "15994809224059426231"
@@ -188,7 +191,9 @@
         "cites_per_year": {
             "2020": 2,
             "2021": 2,
-            "2022": 4
+            "2022": 4,
+            "2023": 0,
+            "2024": 1
         }
     },
     "empathy-and-hope_2021": {
@@ -237,7 +242,7 @@
             "5028742958678361005"
         ],
         "pub_url": "https://aclanthology.org/2023.emnlp-main.815/",
-        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:rUPF1hOvyUUJ:scholar.google.com/",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:OyUdIW6THQMJ:scholar.google.com/",
         "cites_per_year": {
             "2023": 2
         }
@@ -257,6 +262,26 @@
         "author_pub_id": "SOckmGoAAAAJ:WF5omc3nYNoC",
         "num_citations": 0,
         "pub_url": "https://arxiv.org/abs/2311.09542",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:QTJp0nuJe-4J:scholar.google.com/",
+        "cites_per_year": {}
+    },
+    "a-stepbystep-protocol_2022": {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+            "title": "A Step-by-Step Protocol for Curation of Topic Models by Subject Matter Experts",
+            "pub_year": 2022,
+            "citation": "Conference on New Directions in Analyzing Text as Data (TADA), 2022",
+            "author": "Philip Resnik and Pranav Goel and Alexander Hoyle and Rupak Sarkar and Josh Hagedorn and Maeve Gearing and Carol Bruce",
+            "journal": "Conference on New Directions in Analyzing Text as Data (TADA)",
+            "publisher": "Text as Data Association",
+            "abstract": "The double photoionization of a molecule by one photon ejects two electrons and typically creates an unstable dication. Observing the subsequent fragmentation products in coincidence can reveal a surprisingly detailed picture of the dynamics. Determining the time evolution and quantum mechanical states involved leads to deeper understanding of molecular dynamics. Here in a combined experimental and theoretical study, we unambiguously separate the sequential breakup via D++ OD+ intermediates, from other processes leading to the same D++ D++ O final products of double ionization of water by a single photon. Moreover, we experimentally identify, separate, and follow step by step, two pathways involving the b 1 \u03a3+ and a 1 \u0394 electronic states of the intermediate OD+ ion. Our classical trajectory calculations on the relevant potential energy surfaces reproduce well the measured data and, combined with the experiment, enable the determination of the internal energy and angular momentum distribution of the OD+ intermediate."
+        },
+        "filled": true,
+        "author_pub_id": "SOckmGoAAAAJ:_FxGoFyzp5QC",
+        "num_citations": 0,
+        "pub_url": "https://par.nsf.gov/biblio/10482988",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:xHDcsEq1dFEJ:scholar.google.com/",
         "cites_per_year": {}
     }
 }

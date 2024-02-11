@@ -52,7 +52,7 @@ def fetch_pubs():
     """
     user_name = "Rupak Sarkar"
     pubs = fetch_publications_from_gscholar(user_name)
-    unique_ids = map(generate_unique_id, pubs)
+    unique_ids = [generate_unique_id(pub) for pub in pubs]
     assert len(unique_ids) == len(set(unique_ids)), "Unique IDs are not unique!"
     pubs = {uid: pub for uid, pub in zip(unique_ids, pubs)}
 
